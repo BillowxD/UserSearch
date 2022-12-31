@@ -2,6 +2,8 @@
 
 ## Installation
 
+### Tested on xampp 8.0.25 / PHP 8.0.25
+
 ### Sample.rar contains a sample of a data that was used for testing feel free to use it.
 
 ### If needed change the database details at src/defines.php
