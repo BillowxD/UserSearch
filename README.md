@@ -24,3 +24,7 @@ Create schema named task and import the task.sql file
 
 ### Genearte data
 Run the generate.php file using php command or web
+
+
+## How to run
+### Open index.html file using the web to use the search engine
