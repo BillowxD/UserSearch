@@ -140,7 +140,7 @@
         /**
          * Returning an error if the prepared statement failed
          */
-        return ["status" => false, "error" => "Prepared statement failed on line 72"];
+        return ["status" => false, "error" => "Prepared statement failed"];
     /**
      * Setting $rs to store the result set we recevied from the last prepared statement
      */
